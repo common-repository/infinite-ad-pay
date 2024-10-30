@@ -1,0 +1,63 @@
+/*Mr Paragon */
+/* Admin page    */
+.iap_white{
+	border:1px solid #040;
+	background-color: #FFF !important;
+	padding:20px;
+}
+
+.iap_white h1{
+	color:#040;
+}
+.iap_white p label {
+	font-size: 14px;
+}
+
+p.success{
+	color:#040;
+	padding:10px 10px 10px 10px;
+    border:1px solid #040;
+    width: 40%;
+    background: #FFF;
+}
+
+
+/* Inifinite Ad pay pro style 
+Front End
+
+You can add your own css in your child-theme if your ad is not show correctly.
+You can also contact me at mr@mrparagon.me so that i can fix that for you
+Thanks for purchasing my item.
+*/
+
+.head-widget {
+margin:5px auto;
+margin-left: auto;
+width:70%;
+height:auto;
+}
+.iap-img {
+	width:100%;
+	margin:0 auto;
+
+}
+.iap-img img{
+	width: 100%;
+	height: auto;
+	/*  This can be changed   */
+	max-height: 90px;
+}
+/*  FIXES FOR WORDPRESS TEMPLATE */
+#page, .hfeed .site{
+	margin-top: -20px;
+}
+/* OTHER TEMPLATE FIXEX */
+/* some Template */
+.widget {
+	padding:none;
+	padding: -20px !important;
+
+}
+.widget img {
+	width:100% !important;
+}

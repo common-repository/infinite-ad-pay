@@ -1,0 +1,70 @@
+=== Infinite Ad Pay ===
+
+Contributors: De paragon
+Donate link: http://goo.gl/O4a5xm
+
+*	Tags: Wordpress widget, wordpress monitization, adsense code, adsense widget, inside post widget, display ad widget, monitization widget, wordpress sidebar, header widget, wordpress header ad widget, inside post ads, adsense , advert widget, ad widget, 728x90 header widget, header ad widget, 
+*	Requires at least: 3.6
+*	Tested up to: 4.0
+*	Stable tag: 1.1
+*	License: GPLv2 or later
+*	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+== Description ==
+Infinite Ad pay is a Wordpress plugin that allows you to place advert anywhere in your wordpress site. You can start running multiple ads and get paid through infinite channels.  Your choice of a theme will no longer depend on the number of ad slots available. You get all ads slot you will ever need in infinite ad pay.
+ 
+	**Features**
+*Place ad inside post content. 
+*Create multiple ad widget area based on number of posts per page
+*Creates widget area inside Wordpress website header (best target for ads)
+*Raise the possibility of ad clicks and visibility of ads: Make your advertisers happy, make yourself rich.
+*Creates Widget area below single posts content.
+*Creates Widget Area below single page content
+
+== Installation ==
+**Option 1**
+
+1. Download Infinite ad pay from wordpress.org.
+
+2. Upload the files to your hosting account inside WP-CONTENT/PLUGINS folder (Use FTP application or Hosting Account File Manager).
+3. Extract the plugin files if it is not yet extracted.
+4. Go to your wordpress dashboard, Select plugins from the dashboard menu, Activate Infinite ad pay from your wordpress dashboard.
+
+
+**Option 2. (Recommended)**
+
+*Use powerful wordpress plugin search available on your wordpress dashboard and install wordpress plugin from your login wordpress dashboard. 
+Search term = “infinite ad pay”. 
+
+== Frequently Asked Questions ==
+
+= Does Infinite ad pay support my template=
+
+Infinite ad pay have been tested in a great number of templates, if your wordpress template meets wordpress.org standard, the answer is yes! Infinite ad pay support your template
+
+= How many ad widget area can a create =
+
+The number of ad widgets depends on number of post per page.
+The math is, post per page/2 = number of ad widgets area.
+However, header widget area, single post and single page is independent of this number.
+
+= Any tutorial=
+Tutorial are available as downloadable pdf @ mrparagon.me/infinite-ad-pay  
+
+== Screenshots ==
+1. Infinite ad pay inside post widget area 
+2. Infinite ad pay widget image ad and script ad
+3. Sample of infinite ad pay inside post ad
+4. Sample of infinite ad pay header ad.
+
+== Changelog ==
+
+= 1.1 =
+**Perfect header widget area added
+**Smart inside post widget area added
+**Settings page added
+
+== Upgrade Notice ==
+= 1.1 =
+You have new settings page and more control 
+ 
